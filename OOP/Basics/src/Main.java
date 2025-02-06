@@ -42,7 +42,7 @@ class Rectangle{
 public class Main {
     public static void main(String[] args) {
         A obj = new A();
-        /*obj - object or class A or reference variable of class A
+        /*obj - object of class A or reference variable of class A
         new - keyword to assign memory in heap dynamically
         A() - Default Constructor of class A
         */
